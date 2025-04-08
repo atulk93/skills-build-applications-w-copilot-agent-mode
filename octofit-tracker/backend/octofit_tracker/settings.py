@@ -143,3 +143,8 @@ CORS_ALLOW_HEADERS = [
     "authorization",
     "x-csrftoken",
 ]
+
+CORS_ALLOWED_ORIGINS = [
+    "https://crispy-disco-w9vvrjj5j7v29p75-3000.app.github.dev",
+    "http://localhost:3000"
+]
